@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\GT ACADEMY\C# PROJECTS\NUMBER 2\NUMBER 2\bin\Debug\NUMBER 2.exe.config
+C:\Users\user\Desktop\GT ACADEMY\C# PROJECTS\NUMBER 2\NUMBER 2\bin\Debug\NUMBER 2.exe
+C:\Users\user\Desktop\GT ACADEMY\C# PROJECTS\NUMBER 2\NUMBER 2\bin\Debug\NUMBER 2.pdb
+C:\Users\user\Desktop\GT ACADEMY\C# PROJECTS\NUMBER 2\NUMBER 2\obj\Debug\NUMBER 2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\GT ACADEMY\C# PROJECTS\NUMBER 2\NUMBER 2\obj\Debug\NUMBER 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GT ACADEMY\C# PROJECTS\NUMBER 2\NUMBER 2\obj\Debug\NUMBER 2.exe
+C:\Users\user\Desktop\GT ACADEMY\C# PROJECTS\NUMBER 2\NUMBER 2\obj\Debug\NUMBER 2.pdb
